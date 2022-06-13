@@ -1,2 +1,3 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de projeto sobre git para github
+testando um commit atraves do termux...
